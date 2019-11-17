@@ -1,0 +1,11 @@
+C:\Users\dima\source\repos\AOThomework1\AOThomework1\bin\Debug\netcoreapp2.1\AOThomework1.deps.json
+C:\Users\dima\source\repos\AOThomework1\AOThomework1\bin\Debug\netcoreapp2.1\AOThomework1.runtimeconfig.json
+C:\Users\dima\source\repos\AOThomework1\AOThomework1\bin\Debug\netcoreapp2.1\AOThomework1.runtimeconfig.dev.json
+C:\Users\dima\source\repos\AOThomework1\AOThomework1\bin\Debug\netcoreapp2.1\AOThomework1.dll
+C:\Users\dima\source\repos\AOThomework1\AOThomework1\bin\Debug\netcoreapp2.1\AOThomework1.pdb
+C:\Users\dima\source\repos\AOThomework1\AOThomework1\obj\Debug\netcoreapp2.1\AOThomework1.csprojAssemblyReference.cache
+C:\Users\dima\source\repos\AOThomework1\AOThomework1\obj\Debug\netcoreapp2.1\AOThomework1.csproj.CoreCompileInputs.cache
+C:\Users\dima\source\repos\AOThomework1\AOThomework1\obj\Debug\netcoreapp2.1\AOThomework1.AssemblyInfoInputs.cache
+C:\Users\dima\source\repos\AOThomework1\AOThomework1\obj\Debug\netcoreapp2.1\AOThomework1.AssemblyInfo.cs
+C:\Users\dima\source\repos\AOThomework1\AOThomework1\obj\Debug\netcoreapp2.1\AOThomework1.dll
+C:\Users\dima\source\repos\AOThomework1\AOThomework1\obj\Debug\netcoreapp2.1\AOThomework1.pdb
